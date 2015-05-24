@@ -1,8 +1,8 @@
 # Site settings
-title: "Typewriter"
-description: "So I was feeling nostalgic."
+title: "News-First.com"
+description: "New and News Worthy"
 baseurl: ""
-url: "http://alixedi.github.io"
+url: "http://news-first.com"
 
 # Build settings
 markdown: kramdown
@@ -14,9 +14,4 @@ paginate: 3
 links:
   - title: "abt"
     url: /about
-  - title: "twt"
-    url: http://twitter.com/alixedi
-  - title: "git"
-    url: http://github.com/alixedi
-  - title: "rss"
-    url: /feed.xml
+  
